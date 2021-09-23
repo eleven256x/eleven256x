@@ -1,8 +1,8 @@
-#🎓 About me:
-- Hello, My name is eleven and I am a highschool student currently residing in the United States. I am also purusing my dream in becoming a <strong>Full Stack Developer</strong> and <strong>CEO of a 
-- software company</strong>.
+<h1>🎓 About me:</h1>
+- Hello, My name is eleven and I am a highschool student currently residing in the United States. I am also purusing my dream in becoming a <b>Full Stack Developer</b> and <b>CEO of a 
+- software company</b>.
 
-#💻 Interests:
+<h1>💻 Interests:</h1>
 - Programming/Coding
   • C++, Python, and NodeJS
 - Reverse Engineering
@@ -10,15 +10,15 @@
 - Creating Businesses
   • Deathwish Software
 
-#🐱‍👤 Knowledge:
+<h1>🐱‍👤 Knowledge:</h1></h1>
 I can:
   - Create Desktop Applications in C++, Python, and NodeJS
   - Create Secure Backend(s) in Python and NodeJS
   - Analysis a program statically and dynamically for vulnerabilities
 
-#📦 Projects:
+<h1>📦 Projects:</h1>
 - Currently Private
 
-#📬 Contact Information:
+<h1>📬 Contact Information:</h1>
 - Discord: eleven#1337
 - Twitter: @admissively
